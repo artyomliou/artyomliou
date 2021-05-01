@@ -15,23 +15,17 @@ I am a web developer, focus on backend, but interested in frontend tech!
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/firefox.svg" alt="firefox" height="42px"/>
-</a> 
-<a href="https://aws.amazon.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/aws.svg" alt="aws" height="42px"/>
-</a> 
 <a href="https://git-scm.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/git.svg" alt="git" height="42px"/>
 </a> 
 <a href="https://laravel.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/laravel.svg" alt="laravel" height="42px"/>
 </a> 
-<a href="https://www.php.net/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/php.svg" alt="php" height="42px"/>
+<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/firefox.svg" alt="firefox" height="42px"/>
 </a> 
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/phpstorm.svg" alt="phpstorm" height="42px"/>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/aws.svg" alt="aws" height="42px"/>
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/js.svg" alt="js" height="42px"/>
@@ -51,7 +45,11 @@ I am a web developer, focus on backend, but interested in frontend tech!
 <a href="https://www.docker.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/docker.svg" alt="docker" height="42px"/>
 </a> 
-
-
+<a href="https://www.php.net/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/php.svg" alt="php" height="42px"/>
+</a> 
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/phpstorm.svg" alt="phpstorm" height="42px"/>
+</a> 
 
 <br />
