@@ -15,6 +15,9 @@ I am a web developer, focus on backend, but interested in frontend tech!
 
 ### 🔨 Languages and Tools:
 
+<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/firefox.svg" alt="firefox" height="42px"/>
+</a> 
 <a href="https://laravel.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/laravel.svg" alt="laravel" height="42px"/>
 </a> 
@@ -30,8 +33,8 @@ I am a web developer, focus on backend, but interested in frontend tech!
 <a href="https://vuejs.org/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/vue.svg" alt="vue" height="42px"/>
 </a> 
-<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/firefox.svg" alt="firefox" height="42px"/>
+<a href="https://nodejs.org/en/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/nodejs.svg" alt="nodejs" height="42px"/>
 </a> 
 <a href="https://www.nginx.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/nginx.svg" alt="nginx" height="42px"/>
@@ -44,6 +47,9 @@ I am a web developer, focus on backend, but interested in frontend tech!
 </a> 
 <a href="https://aws.amazon.com/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/aws.svg" alt="aws" height="42px"/>
+</a> 
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/git.svg" alt="git" height="42px"/>
 </a> 
 
 <br />
