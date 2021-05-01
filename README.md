@@ -2,12 +2,18 @@
 
 I am a web developer, focus on backend, but interested in frontend tech!
 
+<br />
+<br />
+
 ### More about me:
 
 - 🔭 I’m currently working on [mdn/translated-content](https://github.com/artyomliou/translated-content)
 - 🌱 I’m currently learning good old tech like [nginx](https://www.nginx.com/blog/) and [mysql](https://dev.mysql.com/doc/)
 - 📫 How to reach me: [artyomliou@gmail.com](mailto:artyomliou@gmail.com)
 - ⚡ Fun fact: My name "Artyom" comes from [Metro series](https://metrovideogame.fandom.com/wiki/Artyom)
+
+<br />
+<br />
 
 ### 🔨 Languages and Tools:
 
@@ -44,6 +50,11 @@ I am a web developer, focus on backend, but interested in frontend tech!
   </a> 
 </p>
 
+<br />
+<br />
+
 ### 🛠️ My Projects
 
 ![Artyomliou's GitHub stats](https://github-readme-stats.vercel.app/api?username=artyomliou&theme=dracula&hide=issues)
+
+<br />
