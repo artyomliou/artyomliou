@@ -47,9 +47,3 @@ I am a web developer, focus on backend, but interested in frontend tech!
 </a> 
 
 <br />
-
-### 📊 Github Stats
-
-![Artyomliou's GitHub stats](https://github-readme-stats.vercel.app/api?username=artyomliou&theme=dracula&hide=issues)
-
-<br />
