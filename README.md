@@ -6,8 +6,7 @@ I am a web developer, focus on backend, but interested in frontend tech!
 
 ### More about me:
 
-- 🔭 I’m currently working on [mdn/translated-content](https://github.com/artyomliou/translated-content)
-- 🌱 I’m currently learning good old tech like [nginx](https://www.nginx.com/blog/) and [mysql](https://dev.mysql.com/doc/)
+- 🌱 I’m learning good old tech like [nginx](https://www.nginx.com/blog/) and [mysql](https://dev.mysql.com/doc/)
 - 📫 How to reach me: [artyomliou@gmail.com](mailto:artyomliou@gmail.com)
 - ⚡ Fun fact: My name "Artyom" comes from [Metro series](https://metrovideogame.fandom.com/wiki/Artyom)
 
