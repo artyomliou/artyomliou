@@ -14,6 +14,6 @@ I am a backend developer with web frontend and cloud skills.
 
 ### 🔨 Languages and Tools:
 
-[![Devops Skills](https://skillicons.dev/icons?i=aws,linux,ansible,terraform,docker)](https://skillicons.dev)
-[![Backend Skills](https://skillicons.dev/icons?i=nginx,go,nodejs,laravel,php,graphql,mysql,postgres,dynamodb,redis,kafka)](https://skillicons.dev)
-[![Web Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,pinia,webpack,vite)](https://skillicons.dev)
+[![Devops Skills](https://skillicons.dev/icons?i=aws,linux,terraform,docker)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=go,nodejs,php,laravel,graphql,mysql,postgres,dynamodb,redis)](https://skillicons.dev)
+[![Web Frontend Skills](https://skillicons.dev/icons?i=nginx,html,css,js,bootstrap,vue)](https://skillicons.dev)
