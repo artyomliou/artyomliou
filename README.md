@@ -1,12 +1,12 @@
 ### Hello 👋 I'm Artyom Liou from Taiwan!
 
-I am a web developer, focus on backend, but interested in frontend tech!
+I am a backend developer with web frontend and cloud skills.
 
 <br />
 
 ### More about me:
 
-- 🌱 I’m learning good old tech like [nginx](https://www.nginx.com/blog/) and [mysql](https://dev.mysql.com/doc/)
+- 🌱 I’m learning [Postgres](https://www.postgresql.org/) and [Amazon Redshift](https://aws.amazon.com/tw/redshift/)
 - 📫 How to reach me: [artyomliou@gmail.com](mailto:artyomliou@gmail.com)
 - ⚡ Fun fact: My name "Artyom" comes from [Metro series](https://metrovideogame.fandom.com/wiki/Artyom)
 
@@ -14,32 +14,6 @@ I am a web developer, focus on backend, but interested in frontend tech!
 
 ### 🔨 Languages and Tools:
 
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/git.svg" alt="git" height="42px"/>
-</a> 
-<a href="https://laravel.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/laravel.svg" alt="laravel" height="42px"/>
-</a> 
-<a href="https://aws.amazon.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/aws.svg" alt="aws" height="42px"/>
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/js.svg" alt="js" height="42px"/>
-</a> 
-<a href="https://vuejs.org/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/vue.svg" alt="vue" height="42px"/>
-</a> 
-<a href="https://www.nginx.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/nginx.svg" alt="nginx" height="42px"/>
-</a> 
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/mysql.svg" alt="mysql" height="42px"/>
-</a> 
-<a href="https://www.docker.com/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/docker.svg" alt="docker" height="42px"/>
-</a> 
-<a href="https://www.php.net/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/artyomliou/artyomliou/main/icons/php.svg" alt="php" height="42px"/>
-</a> 
-
-<br />
+[![Devops Skills](https://skillicons.dev/icons?i=aws,linux,ansible,terraform,docker)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nginx,go,nodejs,laravel,php,graphql,mysql,postgres,dynamodb,redis,kafka)](https://skillicons.dev)
+[![Web Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,pinia,webpack,vite)](https://skillicons.dev)
