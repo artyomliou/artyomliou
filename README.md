@@ -6,7 +6,7 @@ I am a backend developer with web frontend and cloud skills.
 
 ### More about me:
 
-- 🌱 I’m learning [Postgres](https://www.postgresql.org/) and [Amazon Redshift](https://aws.amazon.com/tw/redshift/)
+- 🌱 I’m learning [Postgres](https://www.postgresql.org/), [Amazon Redshift](https://aws.amazon.com/tw/redshift/) and [Kubernetes](https://kubernetes.io/)
 - 📫 How to reach me: [artyomliou@gmail.com](mailto:artyomliou@gmail.com)
 - ⚡ Fun fact: My name "Artyom" comes from [Metro series](https://metrovideogame.fandom.com/wiki/Artyom)
 
